@@ -176,3 +176,287 @@ margin-top: 9%;
         margin-top: 7%;
         margin-bottom: 5%;
     }
+
+
+
+
+    @media screen and (max-width:900px){
+        #greenNavbar{
+            background-color: rgba(10, 198, 88, 0.552);
+            display: flex;
+          flex-wrap: wrap;
+        }
+        
+        .endnavbar{
+            
+        }
+        
+        #Navbar{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        h2{
+            color: rgb(61, 132, 61);
+        }
+        
+        
+        #inspoFlower{
+        display: flex;
+        flex-wrap: wrap;
+        }
+        
+        #terradiumCollection{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .Terradium{
+           
+        }
+        
+        #cacti{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        #sale{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .sale{
+           
+        }
+        
+        body{
+            overflow-x: hidden;
+        
+        }
+        
+        #catalogues{
+            display: flex;
+            flex-wrap: wrap;
+            }
+        
+            .collection{
+              
+            }
+        
+            #Gallery{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #Maincollection{
+                text-align: center;
+            }
+        
+            #treeInABottle{
+            }
+        
+            #feature{
+                text-align: center;
+            }
+        
+            #featureProduct{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+           #button{
+                background-color: rgb(61, 132, 61); 
+        
+            }
+        
+            .button{
+                background-color: rgb(61, 132, 61); 
+            }
+        
+            #neemTree{
+                position: absolute;
+            }
+        
+            #neemWords{
+        position: relative;
+            }
+        
+            #neemButtons{
+                position: relative;
+            }
+        
+            #gallerydisplay{
+            }
+        
+            .collection2{
+            }
+        
+            #cactus{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #cactusWord{
+            }
+        
+            #blogpics{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #Clients{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #footer{
+                display: flex;
+                flex-wrap: wrap;
+            }
+           
+            #emailbutton{
+            }
+        
+            #subscribe{
+            }
+    }
+
+
+    @media screen and (min-width:900px){
+        #greenNavbar{
+            background-color: rgba(10, 198, 88, 0.552);
+            display: flex;
+          flex-wrap: wrap;
+        }
+        
+        .endnavbar{
+            
+        }
+        
+        #Navbar{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        h2{
+            color: rgb(61, 132, 61);
+        }
+        
+        
+        #inspoFlower{
+        display: flex;
+        flex-wrap: wrap;
+        }
+        
+        #terradiumCollection{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .Terradium{
+           
+        }
+        
+        #cacti{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        #sale{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .sale{
+           
+        }
+        
+        body{
+            overflow-x: hidden;
+        
+        }
+        
+        #catalogues{
+            display: flex;
+            flex-wrap: wrap;
+            }
+        
+            .collection{
+              
+            }
+        
+            #Gallery{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #Maincollection{
+                text-align: center;
+            }
+        
+            #treeInABottle{
+            }
+        
+            #feature{
+                text-align: center;
+            }
+        
+            #featureProduct{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+           #button{
+                background-color: rgb(61, 132, 61); 
+        
+            }
+        
+            .button{
+                background-color: rgb(61, 132, 61); 
+            }
+        
+            #neemTree{
+                position: absolute;
+            }
+        
+            #neemWords{
+        position: relative;
+            }
+        
+            #neemButtons{
+                position: relative;
+            }
+        
+            #gallerydisplay{
+            }
+        
+            .collection2{
+            }
+        
+            #cactus{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #cactusWord{
+            }
+        
+            #blogpics{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #Clients{
+                display: flex;
+                flex-wrap: wrap;
+            }
+        
+            #footer{
+                display: flex;
+                flex-wrap: wrap;
+            }
+           
+            #emailbutton{
+            }
+        
+            #subscribe{
+            }
+    }
